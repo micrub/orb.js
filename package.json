@@ -1,0 +1,19 @@
+{
+  "name": "orb.js",
+  "version": "2.0.0",
+  "description": "JavaScript library for astronomical calculations",
+  "main": "src/core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micrub/orb.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micrub/orb.js/issues"
+  },
+  "homepage": "https://github.com/micrub/orb.js#readme"
+}
